@@ -2,7 +2,7 @@
 
 This is the codebook for the IndependentData.txt data set. This data set was reduced from Jorge L. Reyes-Ortiz et. al.'s Human Activity Recognition Using Smartphones Dataset. The background related to the original data set is listed at the end of the Codebook.
 
-This data set contains the average of each mean() and std() variable for each activity and each subject. 
+This data set contains the average of each mean() and std() variable for each activity and each subject. There are 66 total measured variables.
 
 Rows: With 30 subjects doing 6 activities each, this data set contains 180 rows of averaged data. 
 
