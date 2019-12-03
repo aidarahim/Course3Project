@@ -80,3 +80,5 @@ MeasData <- data.table(labeledData)
 IndependentData <- MeasData[,lapply(.SD,mean),by='SubjectIdentifier,Activity']
 
 write.table(IndependentData, file = "IndependentData.txt", row.names = FALSE)
+
+# This method was extracted from Zzhuk
